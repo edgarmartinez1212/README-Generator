@@ -1,8 +1,8 @@
-# test <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+# Test - <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 
 
 ## Description
-lkfjasdf
+Testing my readme generator
 
 ---
 
@@ -22,31 +22,31 @@ lkfjasdf
 ---
 
 ## Installation
-lskajdfljsdf
+1. 2. 3. 4. 5.
 
 ---
 
 ## Usuage
-lskjdflkjsdf
+1. 2. 3. 4. 5.
 
 ---
 
 ## Contributing
-lsdkjflaksjdf
+none
 
 ---
 
 ## Tests
-sldkjflsakjdf
+none
 
 ---
 
 ## Questions
-If you have any questions, please visit my [GitHub](https://github.com/akjsdflkj) or [Email](lkjd) me.
+If you have any questions, please visit my [GitHub](https://github.com/edgarmartinez1212) or [Email](edgar.martinez1@northwestern.edu) me.
 
-GitHub: https://github.com/akjsdflkj
+GitHub: https://github.com/edgarmartinez1212
 
-Email: lkjd
+Email: edgar.martinez1@northwestern.edu
 
 ---
 
