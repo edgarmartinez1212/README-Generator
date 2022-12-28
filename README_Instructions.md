@@ -2,20 +2,11 @@
 
 ## Your Task
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
-
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
-
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
-
 The application will be invoked by using the following command:
 
 ```bash
 node index.js
 ```
-
-
-
 
 ## User Story
 
@@ -56,24 +47,23 @@ THEN I am taken to the corresponding section of the README
 
 Here are some guidelines to help you get started:
 
-* Right click on 'utils' folder and select 'Open in Integrated Terminal'
+- Right click on the `README-Generator` folder and select `Open in Integrated Terminal`.
 
-* In terminal, 
+- (For first time use) In the terminal, type `npm install`, this will install the `node_modules` folder which includes `inquirer 8.2.4` and all other necessary folders.
 
-## Review
+- To begin the program, type `node index.js` in the terminal.
 
-You are required to submit the following for review:
+- Press the `Enter` or `Return` (on mac) key to submit an answer.
 
-* A walkthrough video demonstrating the functionality of the application.
+- After answering all of the questions, a `README.md` file will generate with all user-entered information. If the `README.md` has already been created- due to re-running program- the file will update with the recently entered information.
 
-* A sample README.md file for a project repository generated using your application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
+- Right click on `README.md` and select `Open Preview`.
 
 ---
+
 ## Links
 
-* Reposoitory
+- Reposoitory: 
 
-* Video
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
+- Video
+  Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
