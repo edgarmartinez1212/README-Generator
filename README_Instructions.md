@@ -1,6 +1,10 @@
 # 09 Node.js Challenge: Professional README Generator
 
-The application will be invoked by using the following command:
+## Important
+
+- README.md is not provided as it will be created by the user. README_Instructions.md is this project's README.md.
+
+- The application will be invoked by using the following command:
 
 ```bash
 node index.js
@@ -20,7 +24,7 @@ SO THAT I can quickly create a professional README for a new project
 GIVEN a command-line application that accepts user input
 
 WHEN I am prompted for information about my application
-THEN a professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, Contributing, Tests, Questions, and License
+THEN a professional README.md is generated with the title of my project including sections entitled Description, Table of Contents, Installation, Usage, Contributing, Tests, Questions, and License
 
 WHEN I enter my project title
 THEN this is displayed as the title of the README
@@ -30,6 +34,9 @@ THEN this information is added to the sections of the README entitled Descriptio
 
 WHEN I choose a license for my application from a list of options
 THEN a badge for that license is added next to the Title of the README and a notice is added to the section of the README entitled License that details which license the application is covered under
+
+WHEN I choose not to include a license
+THEN no badge will be added next to the Title of the README and no section entitled License will be added to the README
 
 WHEN I enter my GitHub username
 THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
@@ -61,7 +68,14 @@ Here are some guidelines to help you get started:
 
 ## Links
 
-- Reposoitory:
+- Reposoitory: [https://github.com/edgarmartinez1212/README-Generator](https://github.com/edgarmartinez1212/README-Generator)
 
-- Video
-  Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
+- Video: [https://watch.screencastify.com/v/B3uHtLzOhczcLckzluVV](https://watch.screencastify.com/v/B3uHtLzOhczcLckzluVV)
+
+---
+
+## Images
+
+Below is a screengrab of the README.md after application execution
+
+![readme_generator_screengrab](./images/readme-screengrab.png)
