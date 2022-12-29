@@ -61,9 +61,9 @@ ${data.tests}
 ---
 
 ## Questions
-If you have any questions, please visit my [GitHub](https://github.com/${data.github}) or [Email](${data.email}) me.\n
+If you have any questions, please visit my [GitHub](https://github.com/${data.github}) or [Email](mailto:${data.email}) me.\n
 GitHub: https://github.com/${data.github}\n
-Email: ${data.email}
+Email: [${data.email}](mailto:${data.email})
 
 ---
 
