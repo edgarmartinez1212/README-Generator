@@ -1,7 +1,5 @@
 # 09 Node.js Challenge: Professional README Generator
 
-## Your Task
-
 The application will be invoked by using the following command:
 
 ```bash
