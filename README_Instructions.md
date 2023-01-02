@@ -78,4 +78,4 @@ Here are some guidelines to help you get started:
 
 Below is a screengrab of the README.md after application execution
 
-![readme_generator_screengrab](./images/readme-screengrab.png)
+![readme_generator_screengrab](./assets/readme-screengrab.png)
